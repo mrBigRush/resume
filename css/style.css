@@ -13,6 +13,13 @@ body {
 	font-family: Montserrat;
 }
 
+progress {
+    width: 70%;
+    height: 20px;
+    color: #3fb6b2;
+    background: #efefef;
+}
+
 .wrapper {
 	background-color: #ffffff;
 	display: flex;
