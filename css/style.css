@@ -14,7 +14,7 @@ body {
 }
 
 progress {
-    width: 70%;
+    width: 50%;
     height: 20px;
     color: #3fb6b2;
     background: #efefef;
